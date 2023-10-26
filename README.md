@@ -31,7 +31,7 @@ The project is tested with Bosphorous Database (http://bosphorus.ee.boun.edu.tr/
 
 12. Open System Tray->Wamp Server green icon->Left Click->MySQL->MySQL Console. Press Enter. You should see mysql> prompt.
 
-# Enter the following commands:
+ Enter the following commands:
  create database 3dface;
  use 3dface;
  create table users(UserName varchar(30),Email varchar(50),Phone varchar(10),Password varchar(20));
